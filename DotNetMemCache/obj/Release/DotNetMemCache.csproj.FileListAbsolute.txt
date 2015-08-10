@@ -1,0 +1,10 @@
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\DotNetMemCache.exe.config
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\Database1.mdf
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\Database1_log.ldf
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\DotNetMemCache.exe
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\DotNetMemCache.pdb
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\Enyim.Caching.dll
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\Enyim.Caching.pdb
+c:\projects\DotNetMemCache\DotNetMemCache\bin\Release\Enyim.Caching.xml
+c:\projects\DotNetMemCache\DotNetMemCache\obj\Release\DotNetMemCache.exe
+c:\projects\DotNetMemCache\DotNetMemCache\obj\Release\DotNetMemCache.pdb
